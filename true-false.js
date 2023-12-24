@@ -19,7 +19,7 @@ if (x) {
 
 // optional to cheek true false value
 // to cheek false
-let y = true;
+let y = {};
 if (!y) {
   console.log(y, "is false");
 }
